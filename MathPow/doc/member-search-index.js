@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.kodnest.training.MathPow","c":"MathPow","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.kodnest.training.MathPow","c":"MathPow","l":"MathPow()","u":"%3Cinit%3E()"}];updateSearchResults();
